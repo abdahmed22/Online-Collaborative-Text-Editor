@@ -1,0 +1,16 @@
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\config\WebSocketConfig.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\controller\DocumentController.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\controller\UserController.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\controller\WebSocketController.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\CRDT.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\Cursor.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\Data.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\Document.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\MyList.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\Node.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\TransferData.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\User.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\model\UserRole.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\service\DocumentService.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\service\UserService.java
+C:\MyMaterial\APT\TextEditor\server\src\main\java\com\example\texteditor\TexteditorApplication.java

@@ -1,0 +1,16 @@
+com\example\texteditor\model\CRDT.class
+com\example\texteditor\model\Cursor.class
+com\example\texteditor\controller\DocumentController.class
+com\example\texteditor\controller\WebSocketController.class
+com\example\texteditor\model\Document.class
+com\example\texteditor\TexteditorApplication.class
+com\example\texteditor\config\WebSocketConfig.class
+com\example\texteditor\model\User.class
+com\example\texteditor\controller\UserController.class
+com\example\texteditor\model\UserRole.class
+com\example\texteditor\service\UserService.class
+com\example\texteditor\service\DocumentService.class
+com\example\texteditor\model\TransferData.class
+com\example\texteditor\model\Data.class
+com\example\texteditor\model\Node.class
+com\example\texteditor\model\MyList.class

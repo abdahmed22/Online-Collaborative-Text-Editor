@@ -1,0 +1,15 @@
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\ClientApplication.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\handler\HttpRequestHandler.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\handler\WebSocketHandler.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\CRDT.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\Cursor.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\Data.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\Document.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\MyList.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\Node.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\Position.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\SubDocument.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\TransferData.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\User.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\model\UserRole.java
+C:\MyMaterial\APT\TextEditor\client\src\main\java\com\example\client\userinterface\UserInterface.java
